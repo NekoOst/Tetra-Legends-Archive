@@ -22,7 +22,7 @@ i have 2 options, or i make the continuation writing on top of the code or simpl
 
 All Tetra Legends Assets like OST, SFX, ASSETS and Tetra-X Rotation SYS belongs to Dr Ocelot, If you intend to use them in a Tetris-Like project not related to Tetra Legends you may need a permission from her to avoid copyright problems.  
 
-Tetra Legends is a fangame (according to TetrisWiki) It has no intention to endorse or attack the Tetris Brand the entire concept of the Tetris-Like genre goes to its prospective owners 
+Tetra Legends is a fangame (according to TetrisWiki) It has no intention to endorse or attack the Tetris Brand the entire concept of the Tetris-Like genre goes to its prospective owners, pls support official and lincensed Tetris Release/Products
 
 # Original Status
 
