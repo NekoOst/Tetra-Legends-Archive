@@ -16,6 +16,26 @@ This repository is an archive that I made by forking the original repository, ac
 
 I may be making a spiritual sequel (not official of course) but I'm not interested at the moment, I just forked it to archive the repository in case the original goes down or goes offline. 
 
-Tetra Legends Original is still on air if you want check: https://tetralegends.app
+i have 2 options, or i make the continuation writing on top of the code or simply creating the game from scratch using Godot by making some extra assets and reusing the original assets  
+
+# DISCLAMER
+
+All Tetra Legends Assets like OST, SFX, ASSETS and Tetra-X Rotation SYS belongs to Dr Ocelot, If you intend to use them in a Tetris-Like project not related to Tetra Legends you may need a permission from her to avoid copyright problems.  
+
+Tetra Legends is a fangame (according to TetrisWiki) It has no intention to endorse or attack the Tetris Brand the entire concept of the Tetris-Like genre goes to its prospective owners 
+
+# Original Status
+
+Tetra Legends Original: https://tetralegends.app
+
+Tetra Legends OST: unfortunately it was removed from streaming platforms, replacing it with the TETR.IO QP 2 OST 
+
+Tetra Legends Discord: It was based on server after Ocelot gave up on the project  
+
+# Contact
+
+If you are Dr. Ocelot and want to request something, such as removal from the repository or changing something in the ReadName, please contact me at the email 
+
+taszite.sh@gmail.com
 
 
